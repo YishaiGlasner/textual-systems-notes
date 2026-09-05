@@ -5,3 +5,4 @@ Explorations of data modeling, APIs, and software architecture for large-scale t
 ## Papers
 
 - [Classification of Connections Between Texts](papers/classification-of-connections-between-texts.md)
+- [Designing the Ref API: Navigating Sefaria's Textual Graph](papers/designing-the-ref-api.md)
